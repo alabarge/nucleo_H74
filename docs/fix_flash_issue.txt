@@ -1,0 +1,2 @@
+The nucleo-144 stopped flashing from Keil. Had to tie BOOT0 to VDD, toggle USB and reflash using Keil.
+Also updated the ST-Link firmware.
